@@ -10,6 +10,8 @@ Computer vision fundamentals interactive Jupyter notebooks from Introduction to 
     - Noise_removal_filters.ipynb 
 3. Third_template_matching
     - Template_matching.ipynb
+4. Fourth_edge_detection
+    - Finding_images_gradients.ipynb
 
 ## resources:
 -	https://docs.opencv.org/
