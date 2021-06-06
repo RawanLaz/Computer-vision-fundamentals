@@ -12,8 +12,7 @@ Computer vision fundamentals interactive Jupyter notebooks from Introduction to 
     - Template_matching.ipynb
 4. FOURTh_edge_detection
     - Finding_images_gradients.ipynb
-
-Object Detection
+5. Object Detection
     - 1_basic_object_detection_with_color_range_thresholding.py
 
 ## resources:
