@@ -10,4 +10,4 @@ Using the [1_basic_object_detection_with_color_range_thresholding.py](https://gi
  ```bash 
  python 1_basic_object_detection_with_color_range_thresholding.py 
  ```
- - Change the HSV ranges in the trackbar window.
+ - Change the HSV ranges in the trackbar window, Note: you can choose the color from the HSV space using an online color picker.
