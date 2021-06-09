@@ -12,8 +12,14 @@ Computer vision fundamentals interactive Jupyter notebooks from Introduction to 
     - Template_matching.ipynb
 4. FOURTh_edge_detection
     - Finding_images_gradients.ipynb
-5. Object Detection
+5. SIXTH_frequesncy_domain.
+    - TO DO: Fourier transform of images.
+    - TO DO: Canny edge detector.
+    - TO DO: Hough transform.
+6. Object Detection
     - 1_basic_object_detection_with_color_range_thresholding.py
+7. Classification
+
 
 ## resources:
 -	https://docs.opencv.org/
